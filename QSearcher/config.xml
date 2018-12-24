@@ -1,0 +1,52 @@
+<config>
+<label class="post_content post_area clearfix">
+<timesource class="post_time_source"/>
+<content id="endText"/>
+<content class="hidden"/>
+</label>
+
+<label class="ep-content">
+<timesource class="ep-time-soure cDGray"/>
+<content class="end-text"/>
+</label>
+
+<label class="g-wrap">
+<timesource class="art-about-new"/>
+<content class="end-text clearfix"/>
+</label>
+
+<label class="contents clearfix">
+<timesource class="info"/>
+<content id="endText"/>
+</label>
+
+<label class="content-container clear">
+<timesource class="article-metadata"/>
+<content id="endText"/>
+</label>
+
+<label class="main-a clearfix">
+<timesource class="main-info"/>
+<content id="endText"/>
+</label>
+
+<label class="atc_mian">
+<timesource class="ep-time-soure cDGray"/>
+<content id="endText"/>
+</label>
+
+<label id="artical">
+<timesource class="p_time"/>
+<content id="main_content"/>
+</label>
+
+<label class="left main">
+<timesource class="article-info"/>
+<content class="article"/>
+</label>
+
+<label class="clearfix w1000_320 text_title">
+<timesource class="box01"/>
+<content class="box_con"/>
+</label>
+</config>
